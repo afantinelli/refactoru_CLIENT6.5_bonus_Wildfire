@@ -1,0 +1,27 @@
+* {
+	-webkit-transition: all 0.2s ease-in-out;
+}
+body {
+	margin: 50px;
+}
+
+.list-vert-stack > li {
+	padding-bottom: 10px;
+}
+
+.selected-power {
+	padding: 5px;
+	border: dashed 1px gray;
+}
+
+#land .btn {
+	width: 67px;
+}
+
+.btn{
+	-webkit-transition: all 0.5s cubic-bezier(0,1.63,.62,-1.16);
+}
+
+@font-face {
+	
+}
